@@ -3,3 +3,10 @@ build
 dist
 *.so
 test*.sh
+.pybuild
+debian/.debhelper
+debian/debhelper-build-stamp
+debian/files
+debian/*.debhelper
+debian/mlat-client
+debian/tmp
